@@ -5,6 +5,8 @@ The following classes have been written in Java (Eclipse platform). The way to i
 
 I have also included a screenshot of my results. 
 
+NOTE: This program can be improved by adding safe guards, to make sure that the inputs are correct and fit constraints, set by problem. For example, making sure that negative values cannot be included, thus it is important to make sure that the graph details are correct.
+
 I use 3 classes, Graph, Main and Edge. Edge is just a class that defines what an Edge is.
 Whilst Graph countains all the methods that actually do things on my graph of nodes. 
 Main is where I run specific methods to do specific tests, and this is where we parse in the directed graph, from here you can just change what the values in the direct graph are.
