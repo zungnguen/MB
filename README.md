@@ -1,6 +1,8 @@
 # MB
 MiBolsillo
 
+The following classes have been written in Java.
+
 I use 3 classes, Graph, Main and Edge. Edge is just a class that defines what an Edge is.
 Whilst Graph countains all the methods that actually do things on my graph of nodes. 
 Main is where I run specific methods to do specific tests, and this is where we parse in the directed graph, from here you can just change what the values in the direct graph are.
