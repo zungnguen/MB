@@ -3,6 +3,8 @@ MiBolsillo
 
 The following classes have been written in Java (Eclipse platform). The way to implement this is to just create a Java Project, putting all of these classes into 1 project will allow for them to interact together, without the need of importing the classes or packages, and to check the code, you just need to run the Main.java class.
 
+I have also included a screenshot of my results. 
+
 I use 3 classes, Graph, Main and Edge. Edge is just a class that defines what an Edge is.
 Whilst Graph countains all the methods that actually do things on my graph of nodes. 
 Main is where I run specific methods to do specific tests, and this is where we parse in the directed graph, from here you can just change what the values in the direct graph are.
